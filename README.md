@@ -1,2 +1,2 @@
 # Advanced-python
-Introduction to computational thinking and data science
+Stochastic simulations and data science
